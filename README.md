@@ -2,6 +2,17 @@
 
 A new Flutter application.
 
+## Задание
+
+Создать приложение "Список дел" (дела с датой, описанием, вложениями и приоритетом)
+
+## Результат
+
+![Login](https://github.com/Druxa063/flutter_lab_2/blob/master/images/login.PNG)
+![Add note](https://github.com/Druxa063/flutter_lab_2/blob/master/images/add_note.PNG)
+![Edit note](https://github.com/Druxa063/flutter_lab_2/blob/master/images/edit_note.PNG)
+![List notes](https://github.com/Druxa063/flutter_lab_2/blob/master/images/notes.PNG)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
